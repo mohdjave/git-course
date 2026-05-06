@@ -1,2 +1,7 @@
 hello telecom provider
 hello software provider
+git init → initializes Git
+git add . → adds all files
+git commit -m → creates commit
+git remote add origin → connects local project to GitHub repo
+git push → uploads code to GitHub
